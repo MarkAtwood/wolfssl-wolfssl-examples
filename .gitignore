@@ -424,3 +424,9 @@ http-message-signatures/http_client_signed
 uefi-library/efifs
 
 puf/Build
+
+# AI tool local files
+.claude/
+.cursor/
+.aider*
+.copilot/
